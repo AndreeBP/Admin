@@ -1,0 +1,97 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "MegaPlaza",
+      "imagen": "megaplaza.jpg",
+      "descripcion": "Buen lugar kauza 10/10",
+      "direccion": "Av.Cerrito",
+      "horario": "12:00"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Zanahoria",
+      "imagen": "Jugo de Zanahoria",
+      "descripcion": "Jugo de Zanahoria",
+      "direccion": "Jugo de Zanahoria",
+      "horario": "31111"
+    }
+  ],
+  "departamentos": [
+    {
+      "id": 1,
+      "nombre": "MegaPlaza",
+      "imagen": "megaplaza.jpg",
+      "descripcion": "Buen lugar kauza 10/10",
+      "poblacion": "Av.Cerrito"
+    },
+    {
+      "id": 2,
+      "nombre": "MegaPlaza",
+      "imagen": "megaplaza.jpg",
+      "descripcion": "Buen lugar kauza 10/10",
+      "poblacion": "Av.Cerrito"
+    },
+    {
+      "nombre": "MegaPlaza",
+      "imagen": "megaplaza.jpg",
+      "descripcion": "Buen lugar kauza 10/10",
+      "poblacion": "Av.Cerrito",
+      "id": 3
+    },
+    {
+      "nombre": "Piura",
+      "imagen": "pira.jpg",
+      "descripcion": "Piura no exite kauza",
+      "poblacion": "9999",
+      "id": 4
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "MegaPlaza",
+      "apellidos": "megaplaza.jpg",
+      "correo": "pepito@gmail.com",
+      "contraseña": "Buen lugar kauza 10/10"
+    },
+    {
+      "id": 2,
+      "nombre": "MegaPlaza",
+      "apellidos": "megaplaza.jpg",
+      "correo": "pepito@gmail.com",
+      "contraseña": "Buen lugar kauza 10/10"
+    },
+    {
+      "nombre": "MegaPlaza",
+      "apellidos": "megaplaza.jpg",
+      "correo": "pepito@gmail.com",
+      "contraseña": "Buen lugar kauza 10/10",
+      "id": 3
+    },
+    {
+      "nombre": "Juan",
+      "apellidos": "Vilchez",
+      "correo": "tudios@gmail.com",
+      "contraseña": "123",
+      "id": 5
+    }
+  ],
+  "comentarios": [
+    {
+      "id": 1,
+      "nombre": "Pepito",
+      "comentario": "Buen lugar kauza"
+    },
+    {
+      "id": 2,
+      "nombre": "Andreé",
+      "comentario": "Nice parque"
+    },
+    {
+      "id": 3,
+      "nombre": "Sebitas",
+      "comentario": "Aggg ñafo"
+    }
+  ]
+}
